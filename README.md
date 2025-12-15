@@ -100,3 +100,12 @@ Finalement, on sort le jeu, suivi de mises à jour, des contenus additionnels, e
 
 Ce qui me passionne dans ce projet, c’est le fait que tout soit lié :  
 le choix du type de magie qu’on prend, le monde qui réagit et le village qu’on reconstruit. Je veux que le joueur se sente qu’il influence vraiment tout ce qui l’entoure. Je pense que ce concept pourrait attirer des joueurs parce qu’il propose une expérience plus riche que la plupart des jeux d’action-magie habituels. Et pour un investisseur, c’est un univers qui peut facilement grandir par exemple des extensions, des nouvelles zones, des nouveaux sorts, etc.
+
+---
+
+![maquette](https://github.com/user-attachments/assets/7434cd7c-0042-424e-9e7f-03f642e06e4e)
+
+
+![moodboard](https://github.com/user-attachments/assets/75966de5-b344-42a5-9b14-24f46e753e37)
+
+---
